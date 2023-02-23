@@ -1,0 +1,13 @@
+#squareGrid {
+    background-color: #EEE9DA;
+    display: grid;
+}
+
+.box {
+    background-color: #BDCDD6;
+    border: solid #93BFCF;
+    border-radius: 5%;
+    width: 3rem;
+    height: 3rem;
+    
+}
