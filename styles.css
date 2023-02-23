@@ -16,3 +16,8 @@
     width: 4rem;
     height: 4rem;   
 }
+
+/* .box:hover {
+    background-color: #6096B4;
+} 
+used this to make sure the hover worked, going to add it to the js. */

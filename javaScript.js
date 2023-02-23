@@ -5,3 +5,7 @@ for (let i = 0; i < 16; i++) {
     gridBox.classList.add('box')
     squareGrid.appendChild(gridBox);
 }
+
+addEventListener('mouseover', (e) => {
+    
+})
